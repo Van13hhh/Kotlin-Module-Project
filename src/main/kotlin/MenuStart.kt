@@ -90,7 +90,7 @@ class MenuStart {
 
     private fun showNote(note: Note) {
         println("Заметка: ${note.title}")
-        println("Содержимоеь ${note.content}")
+        println("Содержимое ${note.content}")
     }
 
 
